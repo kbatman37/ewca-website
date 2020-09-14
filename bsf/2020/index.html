@@ -1553,7 +1553,9 @@ html{
             var dropCont = document.getElementsByClassName("w3-dropdown-content");
             var i;
             for (i = 0; i < dropCont.length; i++) {
-                dropCont[i].className = dropCont[i].className.replace(" w3-show", "");
+                if(dropCont[i].id != id){
+                    dropCont[i].className = dropCont[i].className.replace(" w3-show", "");
+                }
             }
 
             var x = document.getElementById(id);
