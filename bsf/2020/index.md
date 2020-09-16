@@ -31,6 +31,7 @@
 - [Lesson 29](#lesson-29)
 - [Lesson 30](#lesson-30)
 
+
 ## Lesson 1
 **Scripture**
 - Genesis 1:1-25 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -54,6 +55,8 @@
     - Genesis 1:1-25 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NLT,ESV,NIV,NIRV&interface=print) ]
 - SIXTH DAY
     - Genesis 1:1-25 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-25&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
+
 ## Lesson 2
 **Scripture**
 - Genesis 1:26-2:25 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -73,6 +76,8 @@
     - Genesis 2:4-25 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+2%3A4-25&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+2%3A4-25&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+2%3A4-25&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+2%3A4-25&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+2%3A4-25&version=NLT,ESV,NIV,NIRV&interface=print) ]
 - SIXTH DAY
     - Genesis 1:26-2:25 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-2%3A25&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
+
 ## Lesson 3
 **Scripture**
 - Genesis 3 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+3&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+3&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+3&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+3&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+3&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -98,6 +103,7 @@
 - SIXTH DAY
     - Genesis 3 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+3&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+3&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+3&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+3&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+3&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 3 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+3&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+3&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+3&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+3&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+3&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 4
 **Scripture**
 - Genesis 4 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+4&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+4&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+4&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+4&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+4&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -118,6 +124,7 @@
     - Genesis 4:17-26 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+4%3A17-26&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+4%3A17-26&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+4%3A17-26&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+4%3A17-26&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+4%3A17-26&version=NLT,ESV,NIV,NIRV&interface=print) ]
 - SIXTH DAY
     - Genesis 4 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+4&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+4&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+4&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+4&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+4&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 5
 **Scripture**
 - Genesis 5-7 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -140,6 +147,7 @@
 - SIXTH DAY
     - Genesis 5-7 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 5-7 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+5-7&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 6
 **Scripture**
 - Genesis 8:1-9:17 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -171,6 +179,7 @@
 - SIXTH DAY
     - Genesis 8:1-9:17 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 8:1-9:17 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 7
 **Scripture**
 - Genesis 9:18-11:9 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -196,6 +205,7 @@
 - SIXTH DAY
     - Genesis 9:18-11:9 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 9:18-11:9 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+9%3A18-11%3A9&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 8
 **Scripture**
 - Genesis 11:10-12:20 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -223,6 +233,7 @@
 - SIXTH DAY
     - Genesis 11:10-12:20 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 11:10-12:20 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+11%3A10-12%3A20&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 9
 **Scripture**
 - Genesis 13-14 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -250,6 +261,7 @@
 - SIXTH DAY
     - Genesis 13-14 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 13-14 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+13-14&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 10
 **Scripture**
 - Genesis 15-16 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -275,6 +287,7 @@
 - SIXTH DAY
     - Genesis 15-16 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 15-16 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+15-16&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 11
 **Scripture**
 - Genesis 17:1-18:15 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -301,6 +314,7 @@
 - SIXTH DAY
     - Genesis 17:1-18:15 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 17:1-18:15 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+17%3A1-18%3A15&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 12
 **Scripture**
 - Genesis 18:16-19:38 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -329,6 +343,7 @@
 - SIXTH DAY
     - Genesis 18:16-19:38 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 18:16-19:38 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+18%3A16-19%3A38&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 13
 **Scripture**
 - Genesis 20-21 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -351,6 +366,7 @@
 - SIXTH DAY
     - Genesis 20-21 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 20-21 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+20-21&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 14
 **Scripture**
 - Genesis 22-23 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -378,6 +394,7 @@
 - SIXTH DAY
     - Genesis 22-23 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 22-23 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+22-23&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 15
 **Scripture**
 - Genesis 24 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+24&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+24&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+24&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+24&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+24&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -402,6 +419,7 @@
 - SIXTH DAY
     - Genesis 24 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+24&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+24&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+24&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+24&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+24&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 24 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+24&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+24&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+24&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+24&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+24&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 16
 **Scripture**
 - Genesis 25-26 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -430,6 +448,7 @@
 - SIXTH DAY
     - Genesis 25-26 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 25-26 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+25-26&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 17
 **Scripture**
 - Genesis 27 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+27&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+27&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+27&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+27&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+27&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -454,6 +473,7 @@
 - SIXTH DAY
     - Genesis 27 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+27&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+27&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+27&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+27&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+27&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 27 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+27&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+27&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+27&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+27&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+27&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 18
 **Scripture**
 - Genesis 28 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+28&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+28&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+28&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+28&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+28&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -479,6 +499,7 @@
 - SIXTH DAY
     - Genesis 28 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+28&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+28&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+28&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+28&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+28&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 28 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+28&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+28&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+28&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+28&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+28&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 19
 **Scripture**
 - Genesis 29 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+29&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+29&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+29&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+29&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+29&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -506,6 +527,7 @@
 - SIXTH DAY
     - Genesis 29 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+29&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+29&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+29&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+29&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+29&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 29 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+29&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+29&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+29&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+29&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+29&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 20
 **Scripture**
 - Genesis 30-31 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -531,6 +553,7 @@
 - SIXTH DAY
     - Genesis 30-31 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 30-31 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+30-31&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 21
 **Scripture**
 - Genesis 32-33 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -559,6 +582,7 @@
 - SIXTH DAY
     - Genesis 32-33 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 32-33 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+32-33&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 22
 **Scripture**
 - Genesis 34-36 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -584,6 +608,7 @@
 - SIXTH DAY
     - Genesis 34-36 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 34-36 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+34-36&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 23
 **Scripture**
 - Genesis 37-38 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -606,6 +631,7 @@
 - SIXTH DAY
     - Genesis 37-38 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 37-38 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+37-38&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 24
 **Scripture**
 - Genesis 39-40 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -628,6 +654,7 @@
 - SIXTH DAY
     - Genesis 39-40 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 39-40 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+39-40&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 25
 **Scripture**
 - Genesis 41-42 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -648,6 +675,7 @@
 - SIXTH DAY
     - Genesis 41-42 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 41-42 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+41-42&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 26
 **Scripture**
 - Genesis 43-44 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -672,6 +700,7 @@
 - SIXTH DAY
     - Genesis 43-44 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 43-44 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+43-44&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 27
 **Scripture**
 - Genesis 45:1-47:12 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -693,6 +722,7 @@
 - SIXTH DAY
     - Genesis 45:1-47:12 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 45:1-47:12 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+45%3A1-47%3A12&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 28
 **Scripture**
 - Genesis 47:13-48:22 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -716,6 +746,7 @@
 - SIXTH DAY
     - Genesis 47:13-48:22 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 47:13-48:22 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-48%3A22&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 29
 **Scripture**
 - Genesis 49-50 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NLT,ESV,NIV,NIRV&interface=print) ]
@@ -742,6 +773,7 @@
 - SIXTH DAY
     - Genesis 49-50 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NLT,ESV,NIV,NIRV&interface=print) ]
     - Genesis 49-50 [ [NLT](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NLT&interface=print) / [ESV](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=ESV&interface=print) / [NIV](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NIV&interface=print) / [NIRV](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NIRV&interface=print) / [All](https://www.biblegateway.com/passage/?search=Genesis+49-50&version=NLT,ESV,NIV,NIRV&interface=print) ]
+
 ## Lesson 30
 **Scripture**
 **Days**
